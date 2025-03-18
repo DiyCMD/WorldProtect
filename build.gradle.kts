@@ -13,6 +13,7 @@ tasks.shadowJar {
     dependencies {
         include(dependency("dev.jorel:commandapi-bukkit-shade:9.7.0"))
     }
+    archiveClassifier.set("")
 }
 
 version = "1.0.0"
