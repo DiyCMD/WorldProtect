@@ -6,6 +6,15 @@
 
 -   1.21
 
+## ダウンロード
+
+以下のページからダウンロード  
+`WorldProtect-x.y.z.jar`をダウンロードしてください
+
+[最新](https://github.com/DiyCMD/WorldProtect/releases/latest)はこちら
+
+-   [1.0.0](https://github.com/DiyCMD/WorldProtect/releases/v1.0.0)
+
 ## 使い方ですよ
 
 ### 現在保護されてるワールド一覧ですよ
